@@ -1,6 +1,6 @@
 # Visualizations
 
-This folder is examples of data visulizations that I've designed that have been used on the news site for S&P Global Market Intelligence.
+This folder is examples of data visualizations that I've designed that have been used on the news site for S&P Global Market Intelligence.
 
 1. Bubbles - One of a series of graphs that display the location, percent change and premium change for the four largest auto insurance companies in the US.
 
